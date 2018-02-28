@@ -1,0 +1,59 @@
+div.sdmenu {
+	width: 240px;
+	font-family: Verdana, sans-serif;
+	font-size: 11px;
+	padding-bottom: 10px;
+	background: url(bottom.gif) no-repeat  right bottom;
+	color: #fff;
+}
+div.sdmenu div {
+	background: url(title.gif) repeat-x;
+	overflow: hidden;
+}
+div.sdmenu div:first-child {
+	background: url(title.gif) no-repeat;
+}
+div.sdmenu div.expanded {
+	height: 25px;
+}
+div.sdmenu div.collapsed {
+	height: 25px;
+}
+div.sdmenu div span {
+	display: block;
+	padding: 5px 25px;
+	font-weight: bold;
+	color: white;
+	background: url(expanded.gif) no-repeat 10px center;
+	cursor: default;
+	border-bottom: 1px solid #ddd;
+}
+div.sdmenu div.collapsed span {
+	background-image: url(collapsed.gif);
+}
+div.sdmenu div.expanded span {
+	background-image: url(expanded.gif);
+}
+div.sdmenu div a {
+	padding: 5px 10px;
+	background: #f5f8fa;
+	display: block;
+	border-bottom: 1px solid #ddd;
+	color: #000066;
+	font-family: verdana;
+	font-size: 11px;
+	font-weight: bold;
+	text-decoration: none;
+
+}
+div.sdmenu div a.current {
+	background : #ccc;
+}
+div.sdmenu div a:hover {
+	background : #99ccff url(linkarrow.gif) no-repeat right center;
+	color: #000066;
+	text-decoration: none;
+}
+div.sdmenun div button {
+	MARGIN-TOP: 3px; MARGIN-BOTTOM: 2px; FONT: 11px Verdana, Arial, Geneva, Helvetica, sans-serif; MARGIN-LEFT: 12px; COLOR: #102132; BACKGROUND-COLOR: #d7e5f2
+}

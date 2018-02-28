@@ -1,0 +1,308 @@
+/* CSS Document */
+.boldgreen{
+font-family:arial;
+color:#509CA0;
+font-weight:bold;
+font-size:12px
+}
+.bolddarkblue{
+text-decoration:none;
+font-family:arial;
+color:blue;
+font-size:24px
+}
+.white
+{
+color:white;
+font-family:arial;
+font-size:12px;
+font-weight:bold
+}
+.normalblack{color:black;
+font-family:arial;
+text-decoration:none;
+font-size:12px
+}
+
+font.gray{
+    font-family:arial; font-size: 12px; font-weight: 500; text-decoration: none; color: rgb(100,100,100);
+}
+.boldred{
+font-family:arial;
+color:#993333;
+font-weight:bold;
+font-size:12px
+}
+a{color:black;
+font-weight:bold;
+font-family:arial;
+text-decoration:none;
+font-size:12px
+}
+a.hover {
+color:blue;
+font-family:arial;
+font-weight:bold;
+font-size:12px
+}
+a.active{
+color:black;
+font-weight:bold;
+font-family:arial;
+text-decoration:none;
+font-size:12px
+}
+.boldblack{
+color:black;
+font-weight:bold;
+font-family:arial;
+text-decoration:none;
+font-size:12px;
+padding-left: 0px;
+}
+.boldblack_np{
+color:black;
+font-weight:bold;
+font-family:arial;
+text-decoration:none;
+font-size:12px;
+}
+.blue{
+font-family:arial;
+color:blue;
+font-weight:normal;
+font-size:12px
+}
+.boldhead
+{
+font-family:arial;
+color:#1D2783;
+font-size:20px;
+font-weight:bold;
+}
+.detailstr
+{
+border:#626200 1px solid;
+background: ivory;
+height: 22px;
+nowrap: nowrap
+}
+.detailstrg
+{
+border:#626200 1px solid;
+background: #666666;
+height: 22px;
+nowrap: nowrap
+}
+.details_data
+{
+FONT-WEIGHT: bold;
+FONT-SIZE: 12px;
+FONT-FAMILY: arial
+}
+.details_heading {
+FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: arial
+}
+.topnavtext {
+	PADDING-RIGHT: 0px; MIN-WIDTH: 1010px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(http://localhost:8080/pradan/images/topnav_bgnd.gif) repeat-x; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; COLOR: #272727; LINE-HEIGHT: 27px; PADDING-TOP: 0px; HEIGHT: 27px
+}
+.bottomnavtext {
+	PADDING-RIGHT: 0px; MIN-WIDTH: 1010px; PADDING-LEFT: 10px; FONT-WEIGHT: bold; FONT-SIZE: 11px; BACKGROUND: url(http://localhost:8080/pradan/images/topnav_bgnd.gif) repeat-x; PADDING-BOTTOM: 0px; VERTICAL-ALIGN: middle; COLOR: #272727; LINE-HEIGHT: 22px; PADDING-TOP: 0px; HEIGHT: 22px
+}
+FONT.bigtitle {
+	FONT-WEIGHT: bold; FONT-SIZE: 24px; COLOR: #000080; FONT-FAMILY: arial
+}
+FONT.mediumblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: blue; FONT-FAMILY: arial
+}
+FONT.title {
+	FONT-WEIGHT: normal; FONT-SIZE: 14px; COLOR: #000080; FONT-FAMILY: arial
+}
+FONT.subtitle {
+	FONT-WEIGHT: normal; FONT-SIZE: 24px; COLOR: #800000; FONT-FAMILY: arial
+}
+FONT.blue {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY: arial
+}
+FONT.boldblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: blue; FONT-FAMILY: arial
+}
+FONT.black {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: arial
+}
+FONT.boldblack {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: black; FONT-FAMILY: arial
+}
+FONT.brown {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: brown; FONT-FAMILY: arial
+}
+FONT.white {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: white; FONT-FAMILY: arial
+}
+FONT.darkblue {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #5875af; FONT-FAMILY: arial
+}
+FONT.normaldarkblue {
+	FONT-WEIGHT: normal; FONT-SIZE: 12px; COLOR: #5875af; FONT-FAMILY: arial
+}
+FONT.boldtext {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+FONT.red {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: red; FONT-FAMILY: arial
+}
+FONT.big_red {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: red; FONT-FAMILY: arial
+}
+FONT.big_green {
+	FONT-WEIGHT: bold; FONT-SIZE: 16px; COLOR: green; FONT-FAMILY: arial
+}
+TABLE.user {
+	BACKGROUND: #6699ff; WIDTH: 120px; nowrap: nowrap
+}
+TH.user {
+	BACKGROUND: #6699ff; nowrap: nowrap; valign: middle
+}
+TD.user {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+TABLE.complaint_status {
+	BACKGROUND: #9ac3f9; WIDTH: 700px; nowrap: nowrap
+}
+TABLE.complaint_status1 {
+	BACKGROUND: #9ac3f9; WIDTH: 950px; nowrap: nowrap
+}
+TH.complaint_status {
+	BACKGROUND: #9ac3f9; nowrap: nowrap; valign: middle
+}
+TD.complaint_status {
+	BACKGROUND: #fafafa; HEIGHT: 22px
+}
+TABLE.complaint_detail {
+	BACKGROUND: #9ac3f9; WIDTH: 530px; nowrap: nowrap
+}
+TH.complaint_detail {
+	BACKGROUND: #9ac3f9; nowrap: nowrap; valign: middle
+}
+TD.complaint_detail {
+	BACKGROUND: #fafafa; HEIGHT: 30px
+}
+TABLE.projects {
+	BACKGROUND: #ff6666; WIDTH: 120px; nowrap: nowrap
+}
+TH.projects {
+	BACKGROUND: #ff6666; nowrap: nowrap; valign: middle
+}
+TD.projects {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+TABLE.contract {
+	BACKGROUND: #996633; WIDTH: 120px; nowrap: nowrap
+}
+TH.contract {
+	BACKGROUND: #996633; nowrap: nowrap; valign: middle
+}
+TD.contract {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+TABLE.reminder {
+	BACKGROUND: #6699ff; WIDTH: 900px; nowrap: nowrap
+}
+TH.reminder {
+	BACKGROUND: #6699ff; nowrap: nowrap; valign: middle
+}
+TD.reminder {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+TABLE.pending_indents {
+	BACKGROUND: #e1e1e1; WIDTH: 800px; nowrap: nowrap
+}
+TH.pending_indents {
+	nowrap: nowrap; valign: middle
+}
+TD.pending_indents {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+TABLE.indent_details {
+	BACKGROUND: #e1e1e1; WIDTH: 800px; nowrap: nowrap
+}
+TH.indent_details {
+	nowrap: nowrap; valign: middle
+}
+TD.indent_details {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+TD.main_data {
+	BACKGROUND: #FCFCFC; nowrap: nowrap
+}
+TABLE.details {
+	BACKGROUND: #F2F2F2; WIDTH: 800px; nowrap: nowrap
+}
+TABLE.details_ul {
+	BACKGROUND: #F2F2F2; nowrap: nowrap
+}
+TH.details {
+	nowrap: nowrap; valign: middle
+}
+TD.details {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+FONT.details_heading {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: arial
+}
+FONT.details_data {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; FONT-FAMILY: arial
+}
+TABLE.pmd_enq {
+	BACKGROUND: #F2F2F2; WIDTH: 1024px; nowrap: nowrap
+}
+TH.pmd_enq {
+	nowrap: nowrap; valign: middle
+}
+TD.pmd_enq {
+	BACKGROUND: ivory; HEIGHT: 22px; nowrap: nowrap
+}
+FONT.pmd_enq_tableheader {
+	FONT-WEIGHT: normal; FONT-SIZE: 24px; COLOR: black; FONT-FAMILY: arial
+}
+FONT.pmd_enq_details {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; COLOR: black; FONT-FAMILY: arial
+}
+table#ob{
+    border: 1px solid #e1e1e1;
+    border-collapse: collapse;
+    width: 70%;
+}
+#ob thead{
+    border: 1px solid #e1e1e1;
+    font-size: 13px;
+    color: black;
+    height: 25px;
+}
+#ob th{
+    border: 1px solid #e1e1e1;
+    vertical-align: middle;
+    white-space: nowrap;
+    padding: 2px;
+}
+#ob tbody{
+    border: 1px solid #e1e1e1;
+    font-size: 12px;
+    color: black;
+}
+#ob tr{
+    height: 25px;
+}
+#ob td{
+    border: 1px solid #e1e1e1;
+    vertical-align: middle;
+    padding: 2px;
+    white-space: nowrap;
+}
+#total td{
+    background-color: #F2F2F2;
+    font-weight: bold;
+}
+.amt{
+    text-align: right;
+}
